@@ -41,7 +41,7 @@ const createUser = async (req, res) => {
     service: "gmail",
     auth: {
       user: "hairbymanish@gmail.com",
-      pass: "bjnp egbh tyef iqnz",
+      pass: "",
     },
   });
 
